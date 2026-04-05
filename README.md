@@ -54,3 +54,5 @@
 
 ## 📄 Лицензия
 MIT License. Создано [@IRRatium](https://github.com/IRRatium).
+
+ъ
